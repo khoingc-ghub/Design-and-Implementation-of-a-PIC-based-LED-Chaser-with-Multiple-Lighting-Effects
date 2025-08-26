@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-a-PIC-based-LED-Chaser-with-Multiple-Lighting-Effects
+# PIC-based-LED-Chaser-with-Multiple-Lighting-Effects
 This project develops an LED chaser system using the PIC16F877A microcontroller (or similar PIC devices).
 The system provides multiple LED lighting effects, including:
 
